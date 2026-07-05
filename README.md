@@ -7,7 +7,7 @@
 
 An interactive risk-analytics platform combining 10 years of weather data, GDP/population figures, and climate disaster records across 30 global cities — with machine learning models for heat-anomaly detection, disaster damage risk classification, and temperature trend forecasting.
 
-**[Live app](#)** &nbsp;|&nbsp; Built with Python, DuckDB, XGBoost, statsmodels, Streamlit, pydeck
+**[Live app](https://climate-economic-risk-explorer.streamlit.app)** &nbsp;|&nbsp; Built with Python, DuckDB, XGBoost, statsmodels, Streamlit, pydeck
 
 ---
 
